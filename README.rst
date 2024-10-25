@@ -27,3 +27,7 @@ Some references:
 * `Working patches (patchwork) <https://patchwork.ozlabs.org/project/ltp/list/>`_
 * `Working patches (lore.kernel.org) <https://lore.kernel.org/ltp>`_
 * `#ltp @ libera chat <https://libera.chat/>`_
+
+
+#Run ltp stress
+https://bugzilla.openanolis.cn/show_bug.cgi?id=893
